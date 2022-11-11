@@ -1,25 +1,11 @@
-### Welcome 🌱
+### ✨ Welcome ✨
 
 Full-Stack Software Engineer
 
-🤝 Looking to collaborate on ambitious projects  
-💭 Ask me about.. React, TypeScript  
-🧐 Curious about.. Internet Privacy, Data Protection  
-✏️ Currently learning.. AWS, Design Patterns  
+🤝 Looking to collaborate on new projects
+💬 Ask me about Javascript, React, Redux, Node
+🌱 Currently learning Puppeteer, Data Structures/Algorithms  
 💼 Open to discuss employment opportunities  
-
-JavaScript Nodejs React TypeScript Next JS Python TensorFlow NumPy Jest Mocha Selenium Postman GraphQL Apollo-GraphQL PostgreSQL MySQL MongoDB Firebase Docker Amazon AWS Google Cloud Git GitHub Jira
-<!--
-**oscareng/oscareng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: www.linkedin.com/in/oscar-rolf
+😄 Pronouns: He/Him
+🔭 I’m currently working on TikTok web scraper

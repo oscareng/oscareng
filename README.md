@@ -1,5 +1,14 @@
-### Hi there 👋
+### Welcome 🌱
 
+Full-Stack Software Engineer
+
+🤝 Looking to collaborate on ambitious projects
+💭 Ask me about.. React, TypeScript
+🧐 Curious about.. Internet Privacy, Data Protection
+✏️ Currently learning.. AWS, Design Patterns
+💼 Open to discuss employment opportunities
+
+JavaScript Nodejs React TypeScript Next JS Python TensorFlow NumPy Jest Mocha Selenium Postman GraphQL Apollo-GraphQL PostgreSQL MySQL MongoDB Firebase Docker Amazon AWS Google Cloud Git GitHub Jira
 <!--
 **oscareng/oscareng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

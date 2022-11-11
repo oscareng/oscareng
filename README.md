@@ -1,6 +1,6 @@
 #### ✨ Welcome ✨
 
-Full-Stack Software Engineer
+*Full-Stack Software Engineer*
 
 🤝 Looking to collaborate on new projects
 💬 Ask me about Javascript, React, Redux, Node

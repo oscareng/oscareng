@@ -8,4 +8,4 @@
 💼 Open to discuss employment opportunities  
 📫 How to reach me: www.linkedin.com/in/oscar-rolf  
 😄 Pronouns: He/Him  
-🔭 I’m currently working on Twitter web scraper  
+🔭 I’m currently working on webscrapers and chatgpt integrations 
